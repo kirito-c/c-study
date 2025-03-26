@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u7F16\u7A0B\u6587\u4EF6\\vs2022\\\u6307\u9488\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{120A38AE-3698-4827-851A-0DB75AB7186E}|\u6307\u9488.vcxproj|D:\\\u7F16\u7A0B\u6587\u4EF6\\vs2022\\\u6307\u9488\\const.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{120A38AE-3698-4827-851A-0DB75AB7186E}|\u6307\u9488.vcxproj|solutionrelative:const.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120A38AE-3698-4827-851A-0DB75AB7186E}|\u6307\u9488.vcxproj|D:\\\u7F16\u7A0B\u6587\u4EF6\\vs2022\\\u6307\u9488\\point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{120A38AE-3698-4827-851A-0DB75AB7186E}|\u6307\u9488.vcxproj|solutionrelative:point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "const.cpp",
+              "DocumentMoniker": "D:\\\u7F16\u7A0B\u6587\u4EF6\\vs2022\\\u6307\u9488\\const.cpp",
+              "RelativeDocumentMoniker": "const.cpp",
+              "ToolTip": "D:\\\u7F16\u7A0B\u6587\u4EF6\\vs2022\\\u6307\u9488\\const.cpp",
+              "RelativeToolTip": "const.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T07:37:21.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "point.cpp",
+              "DocumentMoniker": "D:\\\u7F16\u7A0B\u6587\u4EF6\\vs2022\\\u6307\u9488\\point.cpp",
+              "RelativeDocumentMoniker": "point.cpp",
+              "ToolTip": "D:\\\u7F16\u7A0B\u6587\u4EF6\\vs2022\\\u6307\u9488\\point.cpp",
+              "RelativeToolTip": "point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T06:56:54.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

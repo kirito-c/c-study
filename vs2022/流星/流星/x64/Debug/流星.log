@@ -1,0 +1,91 @@
+﻿  源.cpp
+D:\编程文件\vs2022\流星\源.cpp(40,2): error C2144: 语法错误:“int”的前面应有“;”
+D:\编程文件\vs2022\流星\源.cpp(40,12): error C3688: 文本后缀“，600”无效；未找到文文本运算符或文本运算符模板“operator """"，600”
+D:\编程文件\vs2022\流星\源.cpp(43,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\编程文件\vs2022\流星\源.cpp(43,1): error C2365: “mciSendStringW”: 重定义；以前的定义是“函数”
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(87,1):
+      参见“mciSendStringW”的声明
+  
+D:\编程文件\vs2022\流星\源.cpp(43,49): error C2065: “O”: 未声明的标识符
+D:\编程文件\vs2022\流星\源.cpp(44,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\编程文件\vs2022\流星\源.cpp(44,1): error C2365: “mciSendStringW”: 重定义；以前的定义是“函数”
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(87,1):
+      参见“mciSendStringW”的声明
+  
+D:\编程文件\vs2022\流星\源.cpp(47,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\编程文件\vs2022\流星\源.cpp(47,1): error C2365: “loadimage”: 重定义；以前的定义是“函数”
+D:\编程文件\vs2022\流星\源.cpp(48,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\编程文件\vs2022\流星\源.cpp(48,1): error C2365: “loadimage”: 重定义；以前的定义是“函数”
+D:\编程文件\vs2022\流星\源.cpp(49,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\编程文件\vs2022\流星\源.cpp(49,1): error C2365: “loadimage”: 重定义；以前的定义是“函数”
+D:\编程文件\vs2022\流星\源.cpp(52,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\编程文件\vs2022\流星\源.cpp(55,5): error C2556: “int initstars(void)”: 重载函数与“void initstars(void)”只是在返回类型上不同
+      D:\编程文件\vs2022\流星\源.cpp(28,6):
+      参见“initstars”的声明
+  
+D:\编程文件\vs2022\流星\源.cpp(55,5): error C2371: “initstars”: 重定义；不同的基类型
+      D:\编程文件\vs2022\流星\源.cpp(28,6):
+      参见“initstars”的声明
+  
+D:\编程文件\vs2022\流星\源.cpp(57,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\编程文件\vs2022\流星\源.cpp(57,1): error C2556: “int initmeteor(void)”: 重载函数与“void initmeteor(void)”只是在返回类型上不同
+      D:\编程文件\vs2022\流星\源.cpp(32,6):
+      参见“initmeteor”的声明
+  
+D:\编程文件\vs2022\流星\源.cpp(57,1): error C2371: “initmeteor”: 重定义；不同的基类型
+      D:\编程文件\vs2022\流星\源.cpp(32,6):
+      参见“initmeteor”的声明
+  
+D:\编程文件\vs2022\流星\源.cpp(59,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\编程文件\vs2022\流星\源.cpp(59,1): error C2556: “int BeginBatchDraw(void)”: 重载函数与“void BeginBatchDraw(void)”只是在返回类型上不同
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(277,6):
+      参见“BeginBatchDraw”的声明
+  
+D:\编程文件\vs2022\流星\源.cpp(59,1): error C2371: “BeginBatchDraw”: 重定义；不同的基类型
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(277,6):
+      参见“BeginBatchDraw”的声明
+  
+D:\编程文件\vs2022\流星\源.cpp(61,2): error C2059: 语法错误:“while”
+D:\编程文件\vs2022\流星\源.cpp(62,2): error C2550: “BeginBatchDraw”: 构造函数初始值设定项列表只能在构造函数定义中使用
+D:\编程文件\vs2022\流星\源.cpp(63,17): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+D:\编程文件\vs2022\流星\源.cpp(63,17): error C2059: 语法错误:“:”
+D:\编程文件\vs2022\流星\源.cpp(66,4): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\编程文件\vs2022\流星\源.cpp(71,7): error C3861: “ontimer”: 找不到标识符
+D:\编程文件\vs2022\流星\源.cpp(78,16): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+D:\编程文件\vs2022\流星\源.cpp(78,16): error C2059: 语法错误:“:”
+D:\编程文件\vs2022\流星\源.cpp(80,4): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\编程文件\vs2022\流星\源.cpp(81,18): warning C4003: 类函数宏的调用“RGB”参数不足
+D:\编程文件\vs2022\流星\源.cpp(81,18): error C3688: 文本后缀“rand”无效；未找到文文本运算符或文本运算符模板“operator """"rand”
+D:\编程文件\vs2022\流星\源.cpp(81,18): error C2059: 语法错误:“)”
+D:\编程文件\vs2022\流星\源.cpp(82,28): error C2001: 常量中有换行符
+D:\编程文件\vs2022\流星\源.cpp(84,64): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\编程文件\vs2022\流星\源.cpp(91,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\编程文件\vs2022\流星\源.cpp(91,1): error C2556: “int EndBatchDraw(void)”: 重载函数与“void EndBatchDraw(void)”只是在返回类型上不同
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(280,6):
+      参见“EndBatchDraw”的声明
+  
+D:\编程文件\vs2022\流星\源.cpp(91,1): error C2371: “EndBatchDraw”: 重定义；不同的基类型
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(280,6):
+      参见“EndBatchDraw”的声明
+  
+D:\编程文件\vs2022\流星\源.cpp(92,1): error C2059: 语法错误:“return”
+D:\编程文件\vs2022\流星\源.cpp(93,1): error C2059: 语法错误:“}”
+D:\编程文件\vs2022\流星\源.cpp(93,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\编程文件\vs2022\流星\源.cpp(96,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\编程文件\vs2022\流星\源.cpp(96,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\编程文件\vs2022\流星\源.cpp(117,10): error C2065: “il”: 未声明的标识符
+D:\编程文件\vs2022\流星\源.cpp(117,21): error C2059: 语法错误:“;”
+D:\编程文件\vs2022\流星\源.cpp(149,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\编程文件\vs2022\流星\源.cpp(153,13): error C2065: “i”: 未声明的标识符
+D:\编程文件\vs2022\流星\源.cpp(155,10): error C2065: “i”: 未声明的标识符
+D:\编程文件\vs2022\流星\源.cpp(156,3): error C2065: “meteorlil”: 未声明的标识符
+D:\编程文件\vs2022\流星\源.cpp(156,37): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+D:\编程文件\vs2022\流星\源.cpp(156,37): error C2059: 语法错误:“:”
+D:\编程文件\vs2022\流星\源.cpp(158,13): error C2065: “i”: 未声明的标识符
+D:\编程文件\vs2022\流星\源.cpp(160,10): error C2065: “i”: 未声明的标识符
+D:\编程文件\vs2022\流星\源.cpp(163,6): error C2601: “ontimer”: 本地函数定义是非法的
+D:\编程文件\vs2022\流星\源.cpp(171,2): error C2562: “movemeteor”:“void”函数返回值
+      D:\编程文件\vs2022\流星\源.cpp(144,6):
+      参见“movemeteor”的声明
+  
+D:\编程文件\vs2022\流星\源.cpp(172,1): error C1004: 发现意外的文件尾

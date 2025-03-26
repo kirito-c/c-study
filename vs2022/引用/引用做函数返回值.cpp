@@ -1,0 +1,39 @@
+#include<iostream>
+using namespace std;
+
+    //引用做函数返回值
+	//1、不要返回局部变量
+	
+
+int & test01()
+{
+
+	int a = 10; //局部变量在栈区
+	return a;
+}
+//2、函数的调用可以作为左值
+int& test02()
+{
+	static int a = 10;//静态变量 存放在全局区
+	return a;
+}
+int main5()
+{
+	//int& ref = test01();
+
+	//cout << "ref = " << ref << endl;
+
+	int& ref2 = test02();
+	cout << "ref2 = " << ref2 << endl;
+	cout << "ref2 = " << ref2 << endl;
+
+	//如果函数的返回值是个引用，这个函数调用可以作为左值
+	test02() = 1000;//相当于a = 1000
+
+	cout << "ref2 = " << ref2 << endl;
+	cout << "ref2 = " << ref2 << endl;
+	cout << "ref2 = " << ref2 << endl;
+
+	system("pause");
+	return 0;
+}
